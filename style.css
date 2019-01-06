@@ -1,0 +1,125 @@
+body{
+  background-image: url("/home/dell/Desktop/webo/images/444455-PEMTFT-38.jpg")
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.profile{
+  display: block;
+  height: 200px;
+
+width: 250px;
+  margin-bottom: 20px;
+  margin-left: 500px;
+margin-right: 500px;
+
+border-radius: 50%;
+margin-top:7em;
+
+
+}
+ header{
+   text-align: center;
+   font-size: 30px;
+   font-family:monospace;
+padding:10px 150px 5px 150px;
+
+   color: #000;
+
+ }
+.caption{
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #000;
+  padding: 5px;
+
+}
+.read{
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #000;
+  padding: 5px;
+
+}
+.btn{
+  color: #000;
+  font-family: fantasy;
+  margin-top: 35px;
+
+font-size: 24px;
+margin-left: 565px;
+margin-right:550px ;
+border-style: none;
+
+  border-radius: 50px;
+}
+.btn-primary{
+  background-color: #008CBA;
+  padding: 10px;
+
+
+}
+.btn-primary:hover{
+  background-color: #0000CD;
+
+}
+.image-profile{
+  height: 170px;
+
+  width:220px;
+margin-right: 60px;
+  float: right;
+  border-radius: 50%;
+}
+
+
+
+.navbar{
+  float: right;
+
+
+
+padding: 4px 6px ;
+
+
+}
+.clearfix::after{
+  content: "";
+  clear: both;
+  display:table;
+}
+
+.navbar a {
+color: black;
+display: inline-block;
+text-align: center;
+padding:6px 10px;
+margin:0;
+
+border-right-style: solid;
+border-color:   #8c8c8c;
+
+border-width: 2px;
+font-size:17px;
+}
+
+.navbar a:last-child{
+  margin-right: 60px;
+  margin-left: 10px;
+  border-right-style:none;
+}
+
+.home:hover{
+  color:  #7700b3;
+  text-decoration: none;
+  padding: 6px 10px;
+}
+
+.head{
+font-family:Coda Caption;
+margin:30px 35px 0 60px;
+}
