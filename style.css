@@ -123,3 +123,17 @@ font-size:17px;
 font-family:Coda Caption;
 margin:30px 35px 0 60px;
 }
+
+.contact{
+
+  display: inline;
+  float:right;
+
+margin-left: 35px;
+margin-top:80pxpx;
+}
+.section{
+  clearfix:both;
+  content: "";
+  display: block;
+}
